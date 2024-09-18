@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="count_symbols">"Количество символов: "</string>
+    <string name="output_information">"Результат: "</string>
+    <string name="input_text">Ввод текста: </string>
+    <string name="button">Преобразовать</string>
+</resources>
