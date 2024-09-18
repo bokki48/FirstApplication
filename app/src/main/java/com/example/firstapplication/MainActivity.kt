@@ -32,8 +32,6 @@ class MainActivity : AppCompatActivity() {
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom)
             insets
         }
-
-
     }
 
     fun onButtonClick(view: View) {
@@ -41,6 +39,4 @@ class MainActivity : AppCompatActivity() {
         outputText.text = sendText.reversed()
         outputCount.text = sendText.count().toString()
     }
-
-
 }
